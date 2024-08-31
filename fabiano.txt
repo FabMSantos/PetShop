@@ -1,1 +1,2 @@
-Linha adicionada MAN.
+Linha adicionada MAN;
+Aula de GIT salvando várias pastas;
